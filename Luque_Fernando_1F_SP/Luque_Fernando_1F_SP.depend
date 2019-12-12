@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1574738725 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Computer.h"
+
+1574650116 d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\linkedlist.h
+
+1574737035 d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\computer.h
+
+1574730862 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Computer.h"
+	"parser.h"
+	"utn.h"
+
+1574738535 d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\parser.h
+
+1572914018 d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\utn.h
+
+1574701612 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574739000 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Computer.h"
+	"parser.h"
+	"utn.h"
+
+1574739087 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Computer.h"
+
+1574732071 source:d:\fer luque sp\luque_fernando_1f_sp\luque_fernando_1f_sp\luque_fernando_1f_sp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"utn.h"
+
